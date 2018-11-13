@@ -1,6 +1,6 @@
 # DAMACY operator
 
-Discriminant Analysis of Multi-Aspect CYtometry
+[Discriminant Analysis of Multi-Aspect CYtometry](https://www.ru.nl/science/analyticalchemistry/education/master-internships/vm/increasing-power-damacy/)
 
 Integrating DAMACY sofware into Tercen.
 
