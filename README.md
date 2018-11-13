@@ -1,4 +1,4 @@
-# Tercen DAMACY operator
+# DAMACY operator
 
 Discriminant Analysis of Multi-Aspect CYtometry
 
