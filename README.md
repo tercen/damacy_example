@@ -15,7 +15,7 @@ Tercen ==> DAMACY R operator ==> DAMACY matlab
 ## DAMACY R operator
 
 - extract data from tercen
-- transform data to fit damacy format
+- transform data to fit DAMACY format
 - extract and transform parameters to fit DAMACY format
 - call DAMACY matlab function
 - load and transform results to fit tercen format
